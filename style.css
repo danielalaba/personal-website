@@ -1,0 +1,15 @@
+img.profile-pic {
+    border-radius: 50%;
+}
+
+img.social-logo {
+    height: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
