@@ -13,3 +13,7 @@ img.social-logo {
 a {
     text-decoration: none;
 }
+
+.btn {
+    margin-bottom: 10px;
+}
