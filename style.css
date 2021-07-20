@@ -16,4 +16,8 @@ a {
 
 .btn {
     margin-bottom: 10px;
+    background-color: darkturquoise;
+    width: 250px;
+    border-radius: 12px;
+    padding: 12px 28px;
 }
