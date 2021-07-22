@@ -6,8 +6,20 @@ img.social-logo {
     height: 20px;
 }
 
-.text-center {
-    text-align: center;
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.socmed-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 a {
