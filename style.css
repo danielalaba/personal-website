@@ -32,4 +32,11 @@ a {
     width: 250px;
     border-radius: 12px;
     padding: 12px 28px;
+    border: none;
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        background-color: black;
+    }
 }
